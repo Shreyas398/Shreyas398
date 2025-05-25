@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shreyas398
+- 👋 Hi, I’m @Shreyas
 - 👀 I’m interested in data engineering
 - 🌱 I’m currently learning ETL
 - 💞️ I’m looking to collaborate on data science projects
