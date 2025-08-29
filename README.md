@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shreyas
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning ETL
+- 👀 I’m interested in Software Development and data engineering
+- 🌱 I’m currently learning ETL, along with expertise in Object oriented programming
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me email: rshreyas398@gmail.com
 
